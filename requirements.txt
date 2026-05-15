@@ -1,0 +1,5 @@
+flask
+spacy
+sqlite3
+pandas
+numpy
